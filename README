@@ -10,13 +10,11 @@ You do not need to download the rainbow table on its own, simply download the en
 USAGE
 
 python gesturecrack.py -f /path/to/gesture.key
+(usually the file is in android/data/system/gesture.key)
+
 python gesturecrack.py -r 8e7e00c0bd5ce227f7be204c8b7c159669c776d4
 
-ISSUES
-Why didn't you do x,y or z?
-*I'm rubbish at Python
-*I didn't have long to do it
-*I wanted to keep it simple
 
-FUTURE
-I would like to do some GUI stuff in Python at some point so this would probably be the ideal candidate.
+FORKED
+
+Now the script is running on python3
