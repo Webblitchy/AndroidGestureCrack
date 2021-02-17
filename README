@@ -1,6 +1,6 @@
 README
 
-This is a simple script to find the pattern lock code on an Android Device, it was created for a test on Mobile Forensics which was part of my degree.
+This is a simple script to find the pattern lock code on an Android Device.
 
 It works by opening a gesture.key file supplied using the -f flag or a raw text hash provided by the -r flag which is compared to a rainbow table of all patterns.
 
